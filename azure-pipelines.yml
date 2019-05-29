@@ -24,6 +24,7 @@ steps:
     ConnectedServiceName: 'dps-sp'
     EnvironmentName: 'dev'
     LabId: 'dps-eastus2-labs-sandbox'
+    
     RepositoryId: 'azure-devtestlab'
     TemplateId: 'ServiceFabric-LabCluster'
     TemplateOutputVariables: false
